@@ -1,0 +1,32 @@
+body
+{
+	background-color: #95A6C2;
+}
+table
+{
+	border-collapse: collapse;
+	background-color: #D7DFEC;
+	margin: auto;
+	
+
+}
+caption
+{
+	font-size: 1.6em;
+	text-shadow: 6px 6px 6px black;
+	border-top: 1px double #0D1A2F;
+	padding: 10px;
+
+}
+td, th
+{
+	border: 2px solid black;
+	text-align: center;
+	padding: 10px;
+}
+th
+{
+	background-color: #546684;
+	color: white;
+	text-shadow: 6px 6px 6px black;
+}
