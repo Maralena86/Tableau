@@ -1,4 +1,4 @@
-confirm("Salut!, tu peux continuer, apuuie Ok");
+confirm("Salut!, tu veux continuer?");
 var name = prompt("Comment tu t'appeles? ");
 
 
